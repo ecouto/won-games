@@ -1,6 +1,5 @@
 import { forwardRef } from 'react'
 import SlickSlider, { Settings } from 'react-slick'
-import './../../setupTests'
 
 import * as S from './styles'
 

@@ -96,5 +96,8 @@
   "setupFiles": [
     "<rootDir>\\config\\polyfills.js",
     "<rootDir>/config/testSetup.js"
-  ]
+  ],
+  "resolutions": {
+    "@types/react": "18.0.0"
+  }
 }
